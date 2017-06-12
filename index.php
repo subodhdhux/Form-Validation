@@ -6,8 +6,6 @@
 
 include_once('Inputs/Text.php');
 
-
-
 include_once('Validators/EmptyValidator.php');
 include_once('Validators/EmailValidator.php');
 include_once('Validators/RegexValidator.php');
